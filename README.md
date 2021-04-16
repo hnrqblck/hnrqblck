@@ -1,4 +1,4 @@
-### Hey! I'm Henrique ![Alt Text](https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif)
+### Hey! I'm Henrique <img height="26" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif">
 ### 嘿！我的中文名字是黑恩力 👋
 
 I'm a web development student 
