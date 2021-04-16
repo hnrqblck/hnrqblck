@@ -1,7 +1,9 @@
 ### Hey! I'm Henrique <img height="26" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif">
-### 嘿！我的中文名字是黑恩力 👋
+### 嘿！我的中文名字是黑恩力 <img height="26" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif">
 
-I'm a web development student 
+<hr>
+
+I'm a web development student passionated about coding and technology. I've been programming for a few months focusing on studying and producing a little bit of something everyday so I can reach my goal of becoming an <b>amazing</b> developer! 🚀💛
 
 <!--
 **hnrqblck/hnrqblck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
