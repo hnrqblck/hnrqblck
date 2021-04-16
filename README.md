@@ -1,5 +1,8 @@
-### Hi there 👋
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+### Hey! I'm Henrique ![Alt Text](https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif)
+### 嘿！我的中文名字是黑恩力 👋
+
+I'm a web development student 
+
 <!--
 **hnrqblck/hnrqblck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
