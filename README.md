@@ -1,13 +1,11 @@
 ## Hey! I'm Henrique <img height="26" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif">, welcome to my github!
 
 <br>
-<br>
 
 I'm a web development student passionated about coding and technology. I've been programming for a few months focusing on studying and producing a little bit of something everyday so I can reach my goal of becoming an <b>fantastic</b> full stack developer! 🚀💛
 
 ## Skills: 👨🏽‍💻
 <h4>These are the techonologies I've coded on and continue to learn and improve with them:</h4>
-<br>
 <p> 
   <img height="26" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">  
   <img height="26" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
