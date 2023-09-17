@@ -2,7 +2,7 @@
 
 <br>
 
-I'm a web development student, passionated about coding and technology. I've been programming for a few months focusing on studying and producing a little bit of something everyday so I can reach my goal of becoming an <b>fantastic</b> full stack developer! 🚀💛
+I'm a front end web developer, passionated about coding and technology. 
 
 ## 👨🏽‍💻 Skills:
 <h4>These are the techonologies I've coded on and continue to learn about:</h4>
