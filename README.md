@@ -4,17 +4,6 @@
 
 I'm a front end web developer, passionated about coding and technology. 
 
-## 👨🏽‍💻 Skills:
-<h4>These are the techonologies I've coded on and continue to learn about:</h4>
-<p> 
-  <img height="26" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">  
-  <img height="26" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
-  <img height="26" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> 
-  <img height="26" src="https://img.icons8.com/color/452/c-programming.png">
-  <img height="26" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
-  <img height="26" src="https://seeklogo.com/images/M/mysql-logo-69B39F7D18-seeklogo.com.png">
-  
-</p>
 
 ### Contact:
 
